@@ -18,6 +18,8 @@ This is a document for ethical practices in creative bot making. It is written a
      * One option is to block your bot from any replies or @ mentions of any kind.
      * Another option is to restrict your bot to replying to or @ mentioning only people who follow the bot ("opt-in")
      
+4. Are you able to actively moderate the bot and remove postings if necessary? Would manual curation of generated content be most apporpriate for the context of your bot?
+     
 ## Consequences
 1. What is the full range of possible outputs?
      * Before you deploy, run your bot for a period of time logging the output without publishing and evaluate.
