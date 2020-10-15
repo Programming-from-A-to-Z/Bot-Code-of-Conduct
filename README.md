@@ -12,7 +12,7 @@ This is a document for ethical practices in creative bot making. It is written a
     * More sophisticated methodologies should be considered, for example, [Transphobic joke detection](http://tinysubversions.com/notes/transphobic-joke-detection/) also by [@tinysubversions](https://twitter.com/tinysubversions).
 
 2. Don't say anything you personally wouldn't say to a stranger!
-> My bot is not me, and should not be read as me. But it's something that I'm responsible for. It's sort of like a child in that way—you don't want to see your child misbehave [@xor](https://twitter.com/xor)
+> My bot is not me, and should not be read as me. But it's something that I'm responsible for. It's sort of like a child in that way—you don't want to see your child misbehave. —[@xor](https://twitter.com/xor)
 
 3. Consider limits on interactions!
      * One option is to block your bot from any replies or @ mentions of any kind.
