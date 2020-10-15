@@ -1,6 +1,6 @@
 # Bot-Code-of-Conduct
 
-This is a document for ethical practices in creative bot making. It is written as a companion resource to go along with a planned set of [Coding Train](http://thecodingtrain.com/) video tutorials related to making Twitter Bots. At the moment it is a list of guiding principles and questions to ask for any bot creations.
+This is a document for ethical practices in creative bot making. It is written as a companion resource to go along with a planned set of [Coding Train](http://thecodingtrain.com/) video tutorials related to making Twitter Bots. At the moment it is a list of guiding principles and questions to ask as part of the practice of creative bot making.
 
 ## Punch up, not down!
 * [Design bots that punch up.](https://www.crummy.com/2013/11/27/0)
