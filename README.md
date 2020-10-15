@@ -20,6 +20,7 @@ This is a document for ethical practices in creative bot making. It is written a
      
 ## Consequences
 1. What is the full range of possible outputs?
+     * Before you deploy, run your bot for a period of time logging the output without publishing and evaluate.
 2. How might others misuse the bot?
 
 ## Voice
