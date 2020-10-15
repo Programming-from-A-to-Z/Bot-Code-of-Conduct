@@ -16,7 +16,7 @@ This is a document for ethical practices in creative bot making. It is written a
 
 3. Consider limits on interactions!
      * One option is to block your bot from any replies or @ mentions of any kind.
-     * Another option is to restrict your bot from replying to or @ mentioning only people who follow the bot ("opt-in")
+     * Another option is to restrict your bot to replying to or @ mentioning only people who follow the bot ("opt-in")
      
 ## Consequences
 1. What is the full range of possible outputs?
