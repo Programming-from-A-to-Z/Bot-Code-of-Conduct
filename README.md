@@ -8,8 +8,8 @@ This is a document for ethical practices in creative bot making. It is written a
 ## Language
 
 1. Develop a practice of filtering.
-    * A simple solution is to use a word filtering module or database, for example [wordfilter](https://github.com/dariusk/wordfilter) by [https://twitter.com/tinysubversions](tinysubversions)
-    * More sophisticated methodologies should be considered, for example, [Transphobic joke detection](http://tinysubversions.com/notes/transphobic-joke-detection/) also by [https://twitter.com/tinysubversions](tinysubversions).
+    * A simple solution is to use a word filtering module or database, for example [wordfilter](https://github.com/dariusk/wordfilter) by [@tinysubversions](https://twitter.com/tinysubversions)
+    * More sophisticated methodologies should be considered, for example, [Transphobic joke detection](http://tinysubversions.com/notes/transphobic-joke-detection/) also by [@tinysubversions](https://twitter.com/tinysubversions).
 
 2. Don't say anything you personally wouldn't say to a stranger!
 > My bot is not me, and should not be read as me. But it's something that I'm responsible for. It's sort of like a child in that way—you don't want to see your child misbehave [@xor](https://twitter.com/xor)
