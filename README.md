@@ -14,7 +14,7 @@ This is a document for ethical practices in creative bot making. It is written a
 2. Don't say anything you personally wouldn't say to a stranger!
 > My bot is not me, and should not be read as me. But it's something that I'm responsible for. It's sort of like a child in that way—you don't want to see your child misbehave. —[@xor](https://twitter.com/xor)
 
-3. Consider limits on interactions!
+3. Limit interactions!
      * One option is to block your bot from any replies or @ mentions of any kind.
      * Another option is to restrict your bot to replying to or @ mentioning only people who follow the bot ("opt-in")
      
